@@ -3,8 +3,8 @@ package com.bill;
 public class Test {
 
 	public static void main(String[] args) {
-            int x = 7;
-System.out.println("yolo");
+           
+System.out.println("player");
 
 	}
 
