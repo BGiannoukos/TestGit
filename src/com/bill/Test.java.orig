@@ -1,0 +1,15 @@
+package com.bill;
+
+public class Test {
+
+	public static void main(String[] args) {
+<<<<<<< HEAD
+		System.out.println("yolo7");
+=======
+		System.out.println("yolo13");
+>>>>>>> 49ef6d704f3eafbb60c0de0aa2ab6ace1328c354
+
+
+	}
+
+}
